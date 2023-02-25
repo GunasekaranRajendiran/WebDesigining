@@ -1,0 +1,17 @@
+https://formsubmit.co/
+
+
+<html lang="en">
+<head>
+ <title>Document</title>
+</head>
+<body>
+    <form action="https://formsubmit.co/gunasekaran.sae@gmail.com" method="post">
+        <label>text:</label>
+        <input type="text" name="name">
+        <label>email:</label>
+        <input type="email" name="email">
+        <button type="submit">send</button>
+    </form>
+</body>
+</html>
